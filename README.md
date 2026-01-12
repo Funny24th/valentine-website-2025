@@ -86,22 +86,22 @@ Note: Make sure you're logged into your GitHub account. If you don't have one, y
 Here's what you can customize in `config.js`:
 ```javascript
 // Basic Information
-valentineName: "Jade"                    // Your Valentine's name
-pageTitle: "Will You Be My Valentine? 💝" // Browser tab title
+valentineName: "Jessika❤️‍🔥"                    // Your Valentine's name
+pageTitle: "Will You Be My Valentine?❤️‍🔥🥺" // Browser tab title
 
 // Floating Background Elements
 floatingEmojis: {
-    hearts: ['❤️', '💖', '💝', '💗', '💓'],  // Heart emojis in background
+    hearts: ['❤️‍🔥', '💖', '💝', '💘', '🖤'],  // Heart emojis in background
     bears: ['🧸', '🐻']                       // Bear emojis in background
 }
 
 // Questions and Buttons
 questions: {
     first: {
-        text: "Do you like me?",                   // First question
+        text: "Do you love me?",                   // First question
         yesBtn: "Yes",                             // Yes button text
         noBtn: "No",                               // No button text
-        secretAnswer: "I don't like you, I love you! ❤️"  // Hidden message
+        secretAnswer: "Ofc dumbass you're my soulmate🥰"  // Hidden message
     },
     second: {
         text: "How much do you love me?",          // Second question
@@ -110,23 +110,23 @@ questions: {
     },
     third: {
         text: "Will you be my Valentine...?",      // Final question
-        yesBtn: "Yes!",                            // Yes button text
-        noBtn: "No"                                // No button text
+        yesBtn: "Duh!",                            // Yes button text
+        noBtn: "Ofc my love!"                                // No button text
     }
 }
 
 // Love Meter Messages
 loveMessages: {
-    extreme: "WOOOOW You love me that much?? 🥰🚀💝",  // Shows above 5000%
-    high: "To infinity and beyond! 🚀💝",              // Shows above 1000%
-    normal: "And beyond! 🥰"                           // Shows above 100%
+    extreme: "Ohh you're obessed with me!👀😘",  // Shows above 5000%
+    high: "To the moon and back baby! 🚀🌙",              // Shows above 1000%
+    normal: "ehhh! 🙃"                           // Shows above 100%
 }
 
 // Final Celebration
 celebration: {
-    title: "Yay! I'm the luckiest person...",     // Celebration title
+    title: "Ohhh you love me love me!🥹❤️‍🔥❤️‍🔥🥰🥰",     // Celebration title
     message: "Now come get your gift...",          // Celebration message
-    emojis: "🎁💖🤗💝💋❤️💕"                        // Celebration emojis
+    emojis: "❤️‍🔥🥰💘🌶️🥵🎁"                        // Celebration emojis
 }
 
 // Website Colors
